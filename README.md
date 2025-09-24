@@ -1,6 +1,6 @@
 # 🧠 Creating a NeuralNet from Scratch
 
-[You can check out the project at Colab](https://colab.research.google.com/drive/13oSw_IH0qsj81Pzwae11NdgNt-GmmxRf?usp=sharing)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/13oSw_IH0qsj81Pzwae11NdgNt-GmmxRf?usp=sharing)
 
 ## 📂 Project Structure
 
